@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<iosteam>
 using namespace std;
 int main(){
     int rows;
@@ -14,4 +14,5 @@ int main(){
     }
     return 0;
 }
+
 
